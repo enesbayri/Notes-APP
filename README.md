@@ -1,5 +1,5 @@
 
-# ***Günlük Yapılacaklar Listesi***
+# ***NOTES***
 
 <hr>
 <br><br>
