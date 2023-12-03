@@ -1,0 +1,47 @@
+{
+    "homeAppbar":"Not Arşivi",
+    "homeEmptyList":"Henüz Bir Notunuz Yok!",
+    "homeExpantionTileCategory":"Kategori",
+    "homeExpantionTileCreated":"Oluşturma Tarihi",
+    "homeExpantionTileCreatedToday":"Bugün",
+    "homeExpantionTileCreatedYesterDay":"Dün",
+    "homeExpantionTileContentTitle":"İçerik",
+    "homeExpantionDeleteBTN":"Sil",
+    "homeExpantionUpdateBtn":"Güncelle",
+
+
+    "categoryAppbar":"Kategoriler",
+    "categoryEmptyList":"Henüz Bir Kategoriniz Yok!",
+
+
+    "addCategory":"Kategori Ekle",
+    "addEmptyCategory":"Lütfen önce kategori ekleyin!",
+    "addCategoryValidate":"Kategori 2 karakterden büyük olmalı!",
+    "addCategoryBTN":"EKLE",
+
+
+    "addNoteAppbar":"Yeni Not",
+    "addNoteCategoryDropdown":"Kategori: ",
+    "addNoteTitleHint": "Başlık",
+    "addNoteContentHint":"İçerik",
+    "addNoteEmptyInput":"İçeriğiniz 2 karakterden büyük olmalıdır!",
+    "addNoteLevelDropdown":"Öncelik: ",
+    "addNoteSaveBTN":"KAYDET",
+    "addNoteGiveupBTN":"VAZGEÇ",
+
+    "removeCategoryTitle":"DİKKAT!",
+    "removeCategoryContent":"EĞER BU KATEGORİYİ SİLERSENİZ, BU KATEGORİYE AİT TÜM NOTLARINIZDA SİLİNECEKTİR. \nSİLMEK İSTEDİĞİNİZE EMİN MİSİNİZ?",
+    "removeCategoryDeleteBTN":"SİL",
+    "removeCategoryGiveupBTN":"VAZGEÇ",
+
+
+
+    "importantLevel1":"AZ",
+    "importantLevel2":"ORTA",
+    "importantLevel3":"ACİL",
+
+    "language":"DİL",
+    "languageChangewarning":"Dil değiştirildiğinde uygulama yeniden başlayacaktır!"
+
+
+}

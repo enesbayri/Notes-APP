@@ -1,0 +1,45 @@
+{
+    "homeAppbar":"Note Archive",
+    "homeEmptyList":"You Don't Have a Note Yet!",
+    "homeExpantionTileCategory":"Category",
+    "homeExpantionTileCreated":"Created Date",
+    "homeExpantionTileCreatedToday":"Today",
+    "homeExpantionTileCreatedYesterDay":"Yesterday",
+    "homeExpantionTileContentTitle":"Content",
+    "homeExpantionDeleteBTN":"Delete",
+    "homeExpantionUpdateBtn":"Update",
+
+
+    "categoryAppbar":"Categories",
+    "categoryEmptyList":"You Don't Have a Category Yet!",
+
+
+    "addCategory":"Add Category",
+    "addEmptyCategory":"Please add categories first!",
+    "addCategoryValidate":"Category must be than more two charactes!",
+    "addCategoryBTN":"ADD",
+
+
+    "addNoteAppbar":"New Note",
+    "addNoteCategoryDropdown":"Category: ",
+    "addNoteTitleHint": "Title",
+    "addNoteContentHint":"Content",
+    "addNoteEmptyInput":"Your content must be larger than 2 characters!",
+    "addNoteLevelDropdown":"İmportance: ",
+    "addNoteSaveBTN":"SAVE",
+    "addNoteGiveupBTN":"GİVE UP",
+
+    "removeCategoryTitle":"ATTENTİON!",
+    "removeCategoryContent":"IF YOU DELETE THIS CATEGORY, ALL YOUR NOTES BELONGING TO THIS CATEGORY WILL BE DELETED. \nARE YOU SURE YOU WANT TO DELETE?",
+    "removeCategoryDeleteBTN":"DELETE",
+    "removeCategoryGiveupBTN":"GİVE UP",
+
+
+    "importantLevel1":"LOW",
+    "importantLevel2":"MİD",
+    "importantLevel3":"HİGH",
+
+    "language":"Language",
+    "languageChangewarning":"The application will restart when the language is changed!"
+
+}
